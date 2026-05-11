@@ -5,11 +5,18 @@
 **`Inspetor de Qualidade & Desenvolvedor (Foco em IA Local e Mobile)`**
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=2400&color=7ee787&background=0d1117&center=true&vCenter=true&width=920&height=56&multiline=false&duration=7800&repeat=true&lines=user%40Magonitte%3A~%24+Inspetor+de+Qualidade+%26+Desenvolvedor+%28IA+local+%C2%B7+Mobile%29;user%40Magonitte%3A~%24+Python+%C2%B7+JavaScript+%C2%B7+RN+%28Expo%29+%C2%B7+Ollama+%C2%B7+llama.cpp;user%40Magonitte%3A~%24+Obsidian+%C2%B7+Cursor+%C2%B7+infer%C3%AAncia+100%25+local"
-    alt="Linha de comando estilo terminal (typing SVG)"
-    title="Terminal · uma linha por vez (sem cortes)"
-  />
+  <table align="center" cellpadding="0" cellspacing="0" bgcolor="#0d1117" style="background-color:#0d1117;border:1px solid #30363d;border-radius:8px;">
+    <tr>
+      <td align="right" valign="middle" style="padding:12px 4px 12px 16px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:20px;font-weight:600;color:#79c0ff;white-space:nowrap;line-height:1.2;">user@Magonitte:~$</td>
+      <td valign="middle" style="padding:12px 16px 12px 0;">
+        <img
+          src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=2400&color=7ee787&background=00000000&center=false&vCenter=true&width=800&height=56&multiline=false&duration=7800&repeat=true&lines=Inspetor+de+Qualidade+%26+Desenvolvedor+%28IA+local+%C2%B7+Mobile%29;Python+%C2%B7+JavaScript+%C2%B7+RN+%28Expo%29+%C2%B7+Ollama+%C2%B7+llama.cpp;Obsidian+%C2%B7+Cursor+%C2%B7+infer%C3%AAncia+100%25+local"
+          alt="Texto do terminal (typing SVG)"
+          title="Prompt fixo em azul · mensagem em verde"
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="left">
