@@ -102,7 +102,7 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 
 <br clear="left" />
 
-> Ícones **Devicon** acima; a mesma stack em **shields** fixos fica na seção **Estatísticas GitHub** (não depende do Linguist).
+> Mesmas tecnologias em **badges** na seção **Estatísticas GitHub**, abaixo.
 
 ---
 
@@ -116,8 +116,6 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
     src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
   />
 </p>
-
-#### Stack em badges (fixo — não usa o Linguist do GitHub)
 
 <p align="left">
   <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -134,4 +132,4 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
   <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
 </p>
 
-<sub>Card de estatísticas: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>; o domínio oficial costuma estar pausado). <strong>Tecnologias</strong> acima são badges estáticos — não refletem volume de código nos repositórios. Self-host: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">Vercel</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
+<sub>Card de estatísticas: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>). Badges de stack são só identidade visual. Self-host: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">Vercel</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
