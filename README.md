@@ -108,33 +108,15 @@ Gosto de **criar coisas** e sou **gamer** desde criança; hoje prefiro **sobrevi
 ### Estatísticas GitHub
 
 <!-- github-readme-stats: espelho (deploy oficial costuma pausar). Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-<table>
-  <tr>
-    <td>
-      <img
-        alt="Estatísticas do GitHub"
-        height="200"
-        src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
-      />
-    </td>
-    <td>
-      <img
-        alt="Sequência de contribuições no GitHub"
-        height="200"
-        src="https://streak-stats.demolab.com/?user=Magonitte&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
-      />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img
-    alt="Gráfico de atividade no GitHub"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Magonitte&custom_title=Atividade%20no%20GitHub&theme=tokyo-night&hide_border=true&area=true"
+    alt="Estatísticas do GitHub"
+    height="200"
+    src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
   />
 </p>
 
-<sub>Widgets: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>) · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> · <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity graph</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">typing SVG</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
+<sub>Card: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>). Outros: <a href="https://github.com/DenverCoder1/readme-typing-svg">typing SVG</a> · <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a> · <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
 
 ---
 
