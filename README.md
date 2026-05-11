@@ -4,9 +4,6 @@
 
 **`Inspetor de Qualidade & Desenvolvedor (Foco em IA Local e Mobile)`**
 
-> **Bio sugerida no GitHub** (até 160 caracteres): copie em [Settings → Public profile](https://github.com/settings/profile):  
-> `Inspetor de Qualidade & dev | IA local, mobile (RN/Expo), indústria | Joinville, SC | ChronosAI, Kalendae`
-
 ---
 
 ## Português
@@ -117,7 +114,7 @@ Gosto de **criar coisas** e sou **gamer** desde criança; hoje prefiro **sobrevi
 
 **Quality Inspector & Developer (Local AI & Mobile focus)**
 
-Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. Today I **design architectures for** fully **local AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
+Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. Today I **design architectures for local-first AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
 
 **Languages:** Python · HTML · CSS · JavaScript · **React Native (Expo)**  
 **Tools / local inference:** **Ollama** · **llama.cpp** · **Obsidian** · **Cursor**
