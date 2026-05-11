@@ -4,33 +4,14 @@
 
 **`Inspetor de Qualidade & Desenvolvedor (Foco em IA Local e Mobile)`**
 
-<p align="left">
-    <img
-        alt="Visitas ao perfil"
-        title="Visitas ao perfil"
-        src="https://komarev.com/ghpvc/?username=Magonitte&label=visitas+ao+perfil&color=1f6feb&style=for-the-badge"
-    />
-    <a href="https://github.com/Magonitte?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/Magonitte?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Magonitte?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Siga-me no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/Magonitte?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-        />
-    </a>
-</p>
+> **Bio sugerida no GitHub** (até 160 caracteres): copie em [Settings → Public profile](https://github.com/settings/profile):  
+> `Inspetor de Qualidade & Dev | IA local, mobile (RN/Expo) | Joinville, SC — indústria + automação.`
 
 ---
 
 ## Português
 
-Sou de **Joinville, SC**. Atuo em **Qualidade Industrial**; a programação é ferramenta para otimizar processos e reduzir custos na operação. Hoje arquiteto **assistentes de IA 100% locais**, desenvolvo **apps mobile** para quem trabalha em **turnos** e organizo conhecimento com **Second Brain no Obsidian**. Fora do expediente, monto e recupero **hardware** (PCs e notebooks), alinhado a máquinas com bastante **RAM** para **inferência local** com privacidade e **modo offline**.
+Sou de **Joinville, SC**. Atuo em **Qualidade Industrial**; a programação é ferramenta para otimizar processos e reduzir custos na operação. Hoje **desenho arquiteturas de** assistentes virtuais de **IA 100% locais**, desenvolvo **apps mobile** para quem trabalha em **turnos** e organizo conhecimento com **Second Brain no Obsidian**. Fora do expediente, monto e recupero **hardware** (PCs e notebooks), alinhado a máquinas com bastante **RAM** para **inferência local** com privacidade e **modo offline**.
 
 <p align="center">
   <img
@@ -79,19 +60,43 @@ Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hard
 
 ### Projetos em destaque
 
-| Projeto | Descrição |
-|--------|-------------|
-| **Chronos AI** | Assistente modular local com **visão**, **síntese de voz** e **manipulação de arquivos**, pensado para rodar sem depender de APIs externas. |
-| **Zeta Optimizer** | Demonstração de **redução de custos operacionais** no **sequenciamento de bobinas** industriais. |
-| **Kalendae** | App mobile para **gestão de escalas** em ciclos **4×4** e **controle de horas extras**. |
+| Projeto | Repositório | Descrição |
+|--------|-------------|-----------|
+| **Chronos AI** | [GitHub](https://github.com/Magonitte/Chronos-AI) | Assistente modular local com **visão**, **síntese de voz** e **manipulação de arquivos**, pensado para rodar sem depender de APIs externas. |
+| **Zeta Optimizer** | [GitHub](https://github.com/Magonitte/Zeta-Optimizer) | Demonstração de **redução de custos operacionais** no **sequenciamento de bobinas** industriais. |
+| **Kalendae** | [GitHub](https://github.com/Magonitte/Kalendae) | App mobile para **gestão de escalas** em ciclos **4×4** e **controle de horas extras**. |
 
-> **Repositórios:** ainda não há URLs públicos desses três projetos nesta conta. Quando publicar, adicione uma coluna **Repo** na tabela ou pins no GitHub.
+> **Repositórios privados:** os três estão no GitHub, com visibilidade **privada** (só aparecem para quem tem acesso). Quem não tiver permissão verá 404 ao abrir o link. Se o slug do repo for outro, ajuste a URL na coluna **Repositório**. Para destacar no perfil: abra [github.com/Magonitte](https://github.com/Magonitte) (logado) e use **Customize your pins**.
+
+### Presença no GitHub
+
+<p align="left">
+    <img
+        alt="Visitas ao perfil"
+        title="Visitas ao perfil"
+        src="https://komarev.com/ghpvc/?username=Magonitte&label=visitas+ao+perfil&color=1f6feb&style=for-the-badge"
+    />
+    <a href="https://github.com/Magonitte?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/Magonitte?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Magonitte?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Siga-me no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/Magonitte?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ### Contato
 
 <p align="left">
   <a href="https://github.com/Magonitte" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:jea_yuigi@hotmail.com" title="E-mail"><img src="https://img.shields.io/badge/jea_yuigi%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail jea_yuigi@hotmail.com" /></a>
+  <a href="mailto:jea_yuigi@hotmail.com" title="Enviar e-mail"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Enviar e-mail" /></a>
   <a href="https://www.instagram.com/jeancarsouza/" title="Instagram @jeancarsouza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @jeancarsouza" /></a>
   <a href="https://www.youtube.com/@jeancde" title="YouTube @jeancde"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @jeancde" /></a>
   <a href="https://www.facebook.com/jean.carlos.de.souza.614487" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -103,20 +108,7 @@ Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hard
 
 Gosto de **criar coisas** e sou **gamer** desde criança; hoje prefiro **sobrevivência e construção de bases** (*Grounded*, *Sons of the Forest*, *Enshrouded*), muitas vezes no **cooperativo** com minha esposa.
 
----
-
-### Estatísticas GitHub
-
-<!-- github-readme-stats: espelho (deploy oficial costuma pausar). Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-<p align="center">
-  <img
-    alt="Estatísticas do GitHub"
-    height="200"
-    src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
-  />
-</p>
-
-<sub>Card: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>). Outros: <a href="https://github.com/DenverCoder1/readme-typing-svg">typing SVG</a> · <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a> · <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
+<sub>Widgets: <a href="https://github.com/DenverCoder1/readme-typing-svg">typing SVG</a> · <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a> · <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
 
 ---
 
@@ -125,14 +117,14 @@ Gosto de **criar coisas** e sou **gamer** desde criança; hoje prefiro **sobrevi
 
 **Quality Inspector & Developer (Local AI & Mobile focus)**
 
-Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. I design **fully local AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
+Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. Today I **design architectures for** fully **local AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
 
 **Languages:** Python · HTML · CSS · JavaScript · **React Native (Expo)**  
 **Tools / local inference:** **Ollama** · **llama.cpp** · **Obsidian** · **Cursor**
 
 **Infrastructure:** **Local AI stack** (not public-cloud-first). I tune hardware and models like **DeepSeek**, **Qwen**, and **Llama**, including **GGUF** via **llama.cpp** / Ollama, for **privacy** and **offline** use.
 
-**Featured projects:** **Chronos AI** (modular local assistant: vision, TTS, file ops, no mandatory external APIs) · **Zeta Optimizer** (industrial **coil sequencing** cost reduction) · **Kalendae** (mobile **4×4 shift** scheduling and **overtime** tracking).
+**Featured projects:** **Chronos AI**, **Zeta Optimizer**, and **Kalendae** are on GitHub as **private** repositories (see the Portuguese table above for links). Visitors without access may see a 404.
 
 **Contact:** same badges as in the Portuguese section (GitHub, email, Instagram, YouTube, Facebook). **LinkedIn** is not linked yet.
 
