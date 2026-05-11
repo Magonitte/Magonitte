@@ -35,11 +35,11 @@ Sou de **Joinville, SC**. Atuo em **Qualidade Industrial**; a programação é f
 ### Stack (uso real)
 
 **Linguagens:** Python · HTML · CSS · JavaScript · **React Native (Expo)**  
-**Ferramentas:** **Ollama** · **Obsidian** · **Cursor**
+**Ferramentas / inferência local:** **Ollama** · **llama.cpp** · **Obsidian** · **Cursor**
 
 ### Infraestrutura
 
-Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hardware e modelos como **DeepSeek**, **Qwen** e **Llama**, priorizando **privacidade** e operação **sem APIs externas obrigatórias**.
+Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hardware e modelos como **DeepSeek**, **Qwen** e **Llama** (incluindo **GGUF** via **llama.cpp** / Ollama), priorizando **privacidade** e operação **sem APIs externas obrigatórias**.
 
 ### Projetos em destaque
 
@@ -77,9 +77,9 @@ Gosto de **criar coisas** e sou **gamer** desde criança; hoje prefiro **sobrevi
 Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. I design **fully local AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
 
 **Languages:** Python · HTML · CSS · JavaScript · **React Native (Expo)**  
-**Tools:** **Ollama** · **Obsidian** · **Cursor**
+**Tools / local inference:** **Ollama** · **llama.cpp** · **Obsidian** · **Cursor**
 
-**Infrastructure:** **Local AI stack** (not public-cloud-first). I tune hardware and models like **DeepSeek**, **Qwen**, and **Llama** for **privacy** and **offline** use.
+**Infrastructure:** **Local AI stack** (not public-cloud-first). I tune hardware and models like **DeepSeek**, **Qwen**, and **Llama**, including **GGUF** via **llama.cpp** / Ollama, for **privacy** and **offline** use.
 
 **Featured projects:** **Chronos AI** (modular local assistant: vision, TTS, file ops, no mandatory external APIs) · **Zeta Optimizer** (industrial **coil sequencing** cost reduction) · **Kalendae** (mobile **4×4 shift** scheduling and **overtime** tracking).
 
@@ -105,6 +105,7 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 <p align="left" style="margin-top: 12px;">
   <img alt="Expo" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
+  <a href="https://github.com/ggerganov/llama.cpp" title="llama.cpp"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-34495e?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
 </p>
@@ -113,22 +114,23 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 
 ### Estatísticas GitHub
 
+<!-- Deploy público github-readme-stats.vercel.app costuma retornar DEPLOYMENT_PAUSED; base espelho abaixo. Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 <p>
   <img
     align="left"
     alt="Estatísticas do GitHub"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_rank=false"
+    src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
   />
   <img
     align="left"
     alt="Linguagens mais usadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magonitte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&locale=pt-br"
+    src="https://github-readme-stats-alpha-virid.vercel.app/api/top-langs/?username=Magonitte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&locale=pt-br&cache_seconds=7200"
   />
 </p>
 
 <br clear="all" />
 
-<sub>Cards por <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · Badges GitHub via <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a> · Visitas via <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a></sub>
+<sub>Cards <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> via instância espelho (o domínio <code>github-readme-stats.vercel.app</code> oficial está pausado). Para não depender de terceiros: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">self-host no Vercel</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
