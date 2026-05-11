@@ -4,6 +4,13 @@
 
 **`Inspetor de Qualidade & Desenvolvedor (Foco em IA Local e Mobile)`**
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&background=1A1B2E&center=true&vCenter=true&multiline=true&width=720&height=120&duration=4000&repeat=true&lines=Inspetor+de+Qualidade+%26+Desenvolvedor+%28IA+local+%C2%B7+Mobile%29;Python+%C2%B7+JavaScript+%C2%B7+React+Native+%28Expo%29+%C2%B7+Ollama+%C2%B7+llama.cpp+%C2%B7+Obsidian"
+    alt="Frases em animação (typing SVG)"
+  />
+</p>
+
 <p align="left">
     <img
         alt="Visitas ao perfil"
@@ -108,12 +115,30 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 
 ### Estatísticas GitHub
 
-<!-- Deploy público github-readme-stats.vercel.app costuma retornar DEPLOYMENT_PAUSED; base espelho abaixo. Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-<p>
+<!-- github-readme-stats: espelho (deploy oficial costuma pausar). Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<table>
+  <tr>
+    <td>
+      <img
+        alt="Estatísticas do GitHub"
+        height="200"
+        src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
+      />
+    </td>
+    <td>
+      <img
+        alt="Sequência de contribuições no GitHub"
+        height="200"
+        src="https://streak-stats.demolab.com/?user=Magonitte&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <img
-    alt="Estatísticas do GitHub"
-    height="200"
-    src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
+    alt="Gráfico de atividade no GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Magonitte&custom_title=Atividade%20no%20GitHub&theme=tokyo-night&hide_border=true&area=true"
   />
 </p>
 
@@ -132,4 +157,4 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
   <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
 </p>
 
-<sub>Card de estatísticas: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>). Badges de stack são só identidade visual. Self-host: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">Vercel</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
+<sub>Widgets: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>) · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> · <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity graph</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">typing SVG</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
