@@ -49,6 +49,34 @@ Sou de **Joinville, SC**. Atuo em **Qualidade Industrial**; a programação é f
 
 Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hardware e modelos como **DeepSeek**, **Qwen** e **Llama** (incluindo **GGUF** via **llama.cpp** / Ollama), priorizando **privacidade** e operação **sem APIs externas obrigatórias**.
 
+### Tecnologias (ícones)
+
+<img align="left" alt="Python" title="Python" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React Native (ecossistema React)" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Git" title="Git" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br clear="left" />
+
+#### Badges (mesma stack)
+
+<p align="left">
+  <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="React Native" title="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+<p align="left">
+  <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
+  <a href="https://github.com/ggerganov/llama.cpp" title="llama.cpp"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-34495e?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
+</p>
+
 ### Projetos em destaque
 
 | Projeto | Descrição |
@@ -74,43 +102,6 @@ Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hard
 ### Interesses
 
 Gosto de **criar coisas** e sou **gamer** desde criança; hoje prefiro **sobrevivência e construção de bases** (*Grounded*, *Sons of the Forest*, *Enshrouded*), muitas vezes no **cooperativo** com minha esposa.
-
----
-
-<details>
-<summary><strong>English (expand)</strong></summary>
-
-**Quality Inspector & Developer (Local AI & Mobile focus)**
-
-Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. I design **fully local AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
-
-**Languages:** Python · HTML · CSS · JavaScript · **React Native (Expo)**  
-**Tools / local inference:** **Ollama** · **llama.cpp** · **Obsidian** · **Cursor**
-
-**Infrastructure:** **Local AI stack** (not public-cloud-first). I tune hardware and models like **DeepSeek**, **Qwen**, and **Llama**, including **GGUF** via **llama.cpp** / Ollama, for **privacy** and **offline** use.
-
-**Featured projects:** **Chronos AI** (modular local assistant: vision, TTS, file ops, no mandatory external APIs) · **Zeta Optimizer** (industrial **coil sequencing** cost reduction) · **Kalendae** (mobile **4×4 shift** scheduling and **overtime** tracking).
-
-**Contact:** same badges as above (GitHub, email, Instagram, YouTube, Facebook). **LinkedIn** is not linked yet.
-
-**Interests:** building things; **survival/base-building** games, often **co-op** with my wife.
-
-</details>
-
----
-
-### Tecnologias (ícones)
-
-<img align="left" alt="Python" title="Python" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React Native (ecossistema React)" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Git" title="Git" width="32px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br clear="left" />
-
-> Mesmas tecnologias em **badges** na seção **Estatísticas GitHub**, abaixo.
 
 ---
 
@@ -143,19 +134,26 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
   />
 </p>
 
-<p align="left">
-  <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="React Native" title="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Expo" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-<p align="left">
-  <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
-  <a href="https://github.com/ggerganov/llama.cpp" title="llama.cpp"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-34495e?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
-</p>
-
 <sub>Widgets: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>) · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> · <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity graph</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">typing SVG</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
+
+---
+
+<details>
+<summary><strong>English (expand)</strong></summary>
+
+**Quality Inspector & Developer (Local AI & Mobile focus)**
+
+Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programming is how I optimize processes and reduce operational costs. I design **fully local AI assistants**, build **mobile apps** for **shift workers**, and manage knowledge with a **Second Brain in Obsidian**. In my spare time I repair and assemble **PCs and laptops**, which pairs well with **high-RAM machines** for **private, offline** local inference.
+
+**Languages:** Python · HTML · CSS · JavaScript · **React Native (Expo)**  
+**Tools / local inference:** **Ollama** · **llama.cpp** · **Obsidian** · **Cursor**
+
+**Infrastructure:** **Local AI stack** (not public-cloud-first). I tune hardware and models like **DeepSeek**, **Qwen**, and **Llama**, including **GGUF** via **llama.cpp** / Ollama, for **privacy** and **offline** use.
+
+**Featured projects:** **Chronos AI** (modular local assistant: vision, TTS, file ops, no mandatory external APIs) · **Zeta Optimizer** (industrial **coil sequencing** cost reduction) · **Kalendae** (mobile **4×4 shift** scheduling and **overtime** tracking).
+
+**Contact:** same badges as in the Portuguese section (GitHub, email, Instagram, YouTube, Facebook). **LinkedIn** is not linked yet.
+
+**Interests:** building things; **survival/base-building** games, often **co-op** with my wife.
+
+</details>
