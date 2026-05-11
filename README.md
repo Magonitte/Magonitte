@@ -6,8 +6,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&background=1A1B2E&center=true&vCenter=true&multiline=true&width=720&height=120&duration=4000&repeat=true&lines=Inspetor+de+Qualidade+%26+Desenvolvedor+%28IA+local+%C2%B7+Mobile%29;Python+%C2%B7+JavaScript+%C2%B7+React+Native+%28Expo%29+%C2%B7+Ollama+%C2%B7+llama.cpp+%C2%B7+Obsidian"
-    alt="Frases em animação (typing SVG)"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=7ee787&background=0d1117&center=true&vCenter=true&width=920&height=56&multiline=false&duration=4500&repeat=true&lines=user%40Magonitte%3A~%24+Inspetor+de+Qualidade+%26+Desenvolvedor+%28IA+local+%C2%B7+Mobile%29;user%40Magonitte%3A~%24+Python+%C2%B7+JavaScript+%C2%B7+RN+%28Expo%29+%C2%B7+Ollama+%C2%B7+llama.cpp;user%40Magonitte%3A~%24+Obsidian+%C2%B7+Cursor+%C2%B7+infer%C3%AAncia+100%25+local"
+    alt="Linha de comando estilo terminal (typing SVG)"
+    title="Terminal · uma linha por vez (sem cortes)"
   />
 </p>
 
