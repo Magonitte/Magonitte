@@ -102,13 +102,7 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 
 <br clear="left" />
 
-<p align="left" style="margin-top: 12px;">
-  <img alt="Expo" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
-  <a href="https://github.com/ggerganov/llama.cpp" title="llama.cpp"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-34495e?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
-</p>
+> Ícones **Devicon** acima; a mesma stack em **shields** fixos fica na seção **Estatísticas GitHub** (não depende do Linguist).
 
 ---
 
@@ -117,20 +111,27 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 <!-- Deploy público github-readme-stats.vercel.app costuma retornar DEPLOYMENT_PAUSED; base espelho abaixo. Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 <p>
   <img
-    align="left"
     alt="Estatísticas do GitHub"
     height="200"
-    style="padding-right: 10px;"
     src="https://github-readme-stats-alpha-virid.vercel.app/api?username=Magonitte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200"
-  />
-  <img
-    align="left"
-    alt="Linguagens mais usadas"
-    height="200"
-    src="https://github-readme-stats-alpha-virid.vercel.app/api/top-langs/?username=Magonitte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&locale=pt-br&cache_seconds=7200"
   />
 </p>
 
-<br clear="all" />
+#### Stack em badges (fixo — não usa o Linguist do GitHub)
 
-<sub>Cards <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> via instância espelho (o domínio <code>github-readme-stats.vercel.app</code> oficial está pausado). Para não depender de terceiros: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">self-host no Vercel</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
+<p align="left">
+  <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="React Native" title="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+<p align="left">
+  <img alt="Ollama" title="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
+  <a href="https://github.com/ggerganov/llama.cpp" title="llama.cpp"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-34495e?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-14120f?style=for-the-badge&logoColor=white" />
+</p>
+
+<sub>Card de estatísticas: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> (espelho <code>alpha-virid.vercel.app</code>; o domínio oficial costuma estar pausado). <strong>Tecnologias</strong> acima são badges estáticos — não refletem volume de código nos repositórios. Self-host: <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">Vercel</a>. Badges GitHub: <a href="https://github.com/DenverCoder1/custom-icon-badges">custom-icon-badges</a>. Visitas: <a href="https://github.com/antonkomarev/github-profile-views-counter">komarev.com/ghpvc</a>.</sub>
