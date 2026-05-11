@@ -5,7 +5,7 @@
 **`Inspetor de Qualidade & Desenvolvedor (Foco em IA Local e Mobile)`**
 
 > **Bio sugerida no GitHub** (até 160 caracteres): copie em [Settings → Public profile](https://github.com/settings/profile):  
-> `Inspetor de Qualidade & Dev | IA local, mobile (RN/Expo) | Joinville, SC — indústria + automação.`
+> `Inspetor de Qualidade & dev | IA local, mobile (RN/Expo), indústria | Joinville, SC | ChronosAI, Kalendae`
 
 ---
 
@@ -62,11 +62,11 @@ Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hard
 
 | Projeto | Repositório | Descrição |
 |--------|-------------|-----------|
-| **Chronos AI** | [GitHub](https://github.com/Magonitte/Chronos-AI) | Assistente modular local com **visão**, **síntese de voz** e **manipulação de arquivos**, pensado para rodar sem depender de APIs externas. |
+| **Chronos AI** | [GitHub](https://github.com/Magonitte/ChronosAI) | Assistente modular local com **visão**, **síntese de voz** e **manipulação de arquivos**, pensado para rodar sem depender de APIs externas. |
 | **Zeta Optimizer** | [GitHub](https://github.com/Magonitte/Zeta-Optimizer) | Demonstração de **redução de custos operacionais** no **sequenciamento de bobinas** industriais. |
 | **Kalendae** | [GitHub](https://github.com/Magonitte/Kalendae) | App mobile para **gestão de escalas** em ciclos **4×4** e **controle de horas extras**. |
 
-> **Repositórios privados:** os três estão no GitHub, com visibilidade **privada** (só aparecem para quem tem acesso). Quem não tiver permissão verá 404 ao abrir o link. Se o slug do repo for outro, ajuste a URL na coluna **Repositório**. Para destacar no perfil: abra [github.com/Magonitte](https://github.com/Magonitte) (logado) e use **Customize your pins**.
+> **Repositórios privados:** os três estão no GitHub, com visibilidade **privada** (só aparecem para quem tem acesso). Quem não tiver permissão verá 404 ao abrir o link. **ChronosAI** e **Kalendae** usam os links que você passou; **Zeta Optimizer** segue `…/Zeta-Optimizer` — ajuste o slug na tabela se o nome do repo for outro. Para destacar no perfil: abra [github.com/Magonitte](https://github.com/Magonitte) (logado) e use **Customize your pins**.
 
 ### Presença no GitHub
 
