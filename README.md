@@ -55,11 +55,13 @@ Foco em **infraestrutura local para IA**, não em nuvem pública. Configuro hard
 
 <p align="left">
   <a href="https://github.com/Magonitte" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/jean-carlos-de-souza/" title="LinkedIn — ajuste o slug se o link não abrir o perfil certo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jea_yuigi@hotmail.com" title="E-mail"><img src="https://img.shields.io/badge/jea_yuigi%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail jea_yuigi@hotmail.com" /></a>
-  <a href="https://www.instagram.com/jeancarsouza/" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @jeancarsouza" /></a>
-  <a href="https://www.facebook.com/jeancarsouza" title="Facebook — ajuste o URL se não for o perfil público correto"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/jeancarsouza/" title="Instagram @jeancarsouza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @jeancarsouza" /></a>
+  <a href="https://www.youtube.com/@jeancde" title="YouTube @jeancde"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @jeancde" /></a>
+  <a href="https://www.facebook.com/jean.carlos.de.souza.614487" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
+
+*LinkedIn:* sem perfil público no momento.
 
 ### Interesses
 
@@ -81,7 +83,7 @@ Based in **Joinville, SC, Brazil**. I work in **industrial quality**; programmin
 
 **Featured projects:** **Chronos AI** (modular local assistant: vision, TTS, file ops, no mandatory external APIs) · **Zeta Optimizer** (industrial **coil sequencing** cost reduction) · **Kalendae** (mobile **4×4 shift** scheduling and **overtime** tracking).
 
-**Contact:** same badges as above (GitHub, LinkedIn, email, Instagram, Facebook). If a social URL is wrong, update the `href` in the source `README.md`.
+**Contact:** same badges as above (GitHub, email, Instagram, YouTube, Facebook). **LinkedIn** is not linked yet.
 
 **Interests:** building things; **survival/base-building** games, often **co-op** with my wife.
 
